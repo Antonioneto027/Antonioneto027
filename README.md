@@ -5,13 +5,13 @@
 # 💫 Sobre Mim:
 
 🔭 **Atualmente estou trabalhando em**<br>
-Estou desenvolvendo um mini-ERP para uma loja online com Laravel e Filament. <br><br>
+Projetos Web<br><br>
 
 👯 **Estou procurando colaborar em**<br>
-Projetos open source, sistemas web e aplicações backend.<br><br>
+Projetos open source, sistemas web e aplicações fullstack.<br><br>
 
 🌱 **Atualmente estou aprendendo**<br>
-Laravel, arquitetura de software e bancos de dados.<br><br>
+Javascript, arquitetura de software e bancos de dados.<br><br>
 
 ⚡ **Curiosidade**<br>
 Aprendo melhor quebrando problemas grandes em partes pequenas e automatizando tudo que posso.<br>
@@ -23,13 +23,13 @@ Aprendo melhor quebrando problemas grandes em partes pequenas e automatizando tu
 # 💫 About Me:
 
 🔭 **I’m currently working on**<br>
-I am developing a mini ERP for an online store using Laravel and Filament. <br><br>
+Web Projects. <br><br>
 
 👯 **I’m looking to collaborate on**<br>
-Open source projects, web systems, and backend applications.<br><br>
+Open source projects, web systems, and fullstack applications.<br><br>
 
 🌱 **I’m currently learning**<br>
-Laravel, software architecture, and databases.<br><br>
+Javascript, software architecture, and databases.<br><br>
 
 ⚡ **Fun fact**<br>
 I learn best by breaking down large problems into smaller parts and automating everything I can.<br>
